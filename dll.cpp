@@ -178,8 +178,7 @@ int main()
     s.display();
     
     
-    //create menu in main.....
-    // This is one approach for making DLL have a closed look.
+
     
     
 getch();
